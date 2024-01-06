@@ -1,2 +1,7 @@
-I'm in the process of moving my personal blog over from WordPress - thought I would try a static site, simpler to write, with lower hosting fees. Github Pages might fit the bill nicely!
-Look forward to sharing some ideas and having fun, getting excited about forming and having a place to channel ideas. Let's see how it goes.
+I am in the process of switching my WordPress personal blog over to a static site: simpler to write and lower hosting fees.
+
+To this end, I'll update things slowly and rewrite/transfer over the content I still want to share.
+
+Look forward to sharing some ideas, having fun, and of course getting excited and having a home for ideas.
+
+Let's see how it goes.
