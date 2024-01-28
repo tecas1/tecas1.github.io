@@ -1,7 +1,7 @@
-I am in the process of switching my WordPress personal blog over to a static site.
+Welcome to my page!
 
-To this end, I'll update things slowly and rewrite/transfer over the content I still want to share.
+I'm in the process of moving over old blog articles and content from my now-retired WordPress site.
 
-Look forward to sharing some ideas, having fun, and of course getting excited and having a home for ideas.
+Looking forward to sharing ideas, having fun, and of course getting excited and having a home for ideas.
 
-Let's see how it goes. Feel free to get in touch.
+Please feel free to get in touch.
