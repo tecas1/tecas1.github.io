@@ -16,12 +16,12 @@ If we assume a constant hazard rate for atmospheric methane then the survival fu
 
 | Description and equation|
 | :-: |
-| survival function for atmospheric methane $$[CH_{4}] (t)=S_{CH_{4}} (t)=e^{-k_{CH_{4}}\cdot t}$$ |
+| survival function for atmospheric methane </br> $$[CH_{4}] (t)=S_{CH_{4}} (t)=e^{-k_{CH_{4}}\cdot t}$$ |
 | atmospheric methane is subject to constant hazard rate </br> break-down rate is proportional to amount of atmospheric methane $$\frac {d[CH_{4}]}{dt}=-k_{CH_{4}}\cdot [{CH_{4}}] (t)=-k_{CH_{4}}\cdot e^{-k_{CH_{4}}\cdot t}$$ |
-| atmospheric carbon dioxide formation rate is equal to methane break-down rate $$f_{CO_{2}} (t)=-\frac {d[CH_{4}]}{dt} $$|
-| survival function for atmospheric carbon dioxide $$S_{CO_{2}} (t)=e^{-k_{CO_{2}}\cdot t}$$ |
-| amount of carbon dioxide created at time τ and surviving to time t $$[CO_{2}] (τ,t)= f_{CO_{2}} (τ)\cdot S_{CO_{2}} (t-τ)=k_{CH_{4}}\cdot e^{-k_{CH_{4}}\cdot\tau}\cdot e^{-k_{CO_{2}}\cdot (t-\tau)}$$ |
-| amount of carbon dioxide $$[CO_{2}] (t) = \int_{0}^{t} [CO_{2}] (τ,t) d\tau = (k_{CO_{2}} * S_{CO_{2}}) (t)=\int_{0}^{t} k_{CO_{2}}\cdot e^{-k_{CO_{2}}\cdot\tau}\cdot e^{-k_{CO_{2}}\cdot (t-\tau)}d\tau$$ |
+| atmospheric carbon dioxide formation rate is equal to methane break-down rate </br> $$f_{CO_{2}} (t)=-\frac {d[CH_{4}]}{dt} $$|
+| survival function for atmospheric carbon dioxide </br> $$S_{CO_{2}} (t)=e^{-k_{CO_{2}}\cdot t}$$ |
+| amount of carbon dioxide created at time τ and surviving to time t </br> $$[CO_{2}] (τ,t)= f_{CO_{2}} (τ)\cdot S_{CO_{2}} (t-τ)=k_{CH_{4}}\cdot e^{-k_{CH_{4}}\cdot\tau}\cdot e^{-k_{CO_{2}}\cdot (t-\tau)}$$ |
+| amount of carbon dioxide </br> $$[CO_{2}] (t) = \int_{0}^{t} [CO_{2}] (τ,t) d\tau = (k_{CO_{2}} * S_{CO_{2}}) (t)=\int_{0}^{t} k_{CO_{2}}\cdot e^{-k_{CO_{2}}\cdot\tau}\cdot e^{-k_{CO_{2}}\cdot (t-\tau)}d\tau$$ |
 
 ![GWP by time](https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5SQrQyMQD2-eKc7PcwHhx5X5oUdNZFJ0EyqvLrPxoWi7FaZti-XYk7bYdfDEU0y5BkVuHYjUYgi6/pubchart?oid=103035834&format=image)
 
