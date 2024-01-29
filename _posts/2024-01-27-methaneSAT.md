@@ -16,12 +16,12 @@ If we assume a constant hazard rate for atmospheric methane then the survival fu
 
 | Description  | Equation |
 | :-: | :-: |
-| survival function for atmospheric methane | $\ S_{CH_{4}} (t)=e^{-k_{CH_{4}}\cdot t}  $ |
-| survival function for atmospheric carbon dioxide | $\ S_{CO_{2}} (t)=e^{-k_{CO_{2}}\cdot t}  $ |
-| methane is subject to constant hazard rate; break-down rate is proportional to amount of atmospheric methane | $\ \frac {d[CH_{4}]}{dt}=-k_{CH_{4}}\cdot S_{CH_{4}} (t)=-k_{CH_{4}}\cdot e^{-k_{CH_{4}}\cdot t} $ |
-| carbon dioxide formation rate is equal to methane break-down rate | $\ f_{CO_{2}} (t)=-\frac {d[CH_{4}]}{dt} $ |
-| amount of carbon dioxide created at time τ and surviving to time t | $\ [CO_{2}] (τ,t)= f_{CO_{2}} (τ)\cdot S_{CO_{2}} (t-τ)=k_{CH_{4}}\cdot e^{-k_{CH_{4}}\cdot\tau}\cdot e^{-k_{CO_{2}}\cdot (t-\tau)} $ |
-| amount of carbon dioxide | $\ [CO_{2}] (t) = \int_{0}^{t} [CO_{2}] (τ,t) d\tau = (k_{CO_{2}} * S_{CO_{2}}) (t)=\int_{0}^{t} k_{CO_{2}}\cdot e^{-k_{CO_{2}}\cdot\tau}\cdot e^{-k_{CO_{2}}\cdot (t-\tau)}d\tau $ |
+| survival function for atmospheric methane | $$S_{CH_{4}} (t)=e^{-k_{CH_{4}}\cdot t}$$ |
+| survival function for atmospheric carbon dioxide | $$S_{CO_{2}} (t)=e^{-k_{CO_{2}}\cdot t}$$ |
+| methane is subject to constant hazard rate; break-down rate is proportional to amount of atmospheric methane | $$\frac {d[CH_{4}]}{dt}=-k_{CH_{4}}\cdot S_{CH_{4}} (t)=-k_{CH_{4}}\cdot e^{-k_{CH_{4}}\cdot t}$$ |
+| carbon dioxide formation rate is equal to methane break-down rate | $$f_{CO_{2}} (t)=-\frac {d[CH_{4}]}{dt} $$|
+| amount of carbon dioxide created at time τ and surviving to time t | $$[CO_{2}] (τ,t)= f_{CO_{2}} (τ)\cdot S_{CO_{2}} (t-τ)=k_{CH_{4}}\cdot e^{-k_{CH_{4}}\cdot\tau}\cdot e^{-k_{CO_{2}}\cdot (t-\tau)}$$ |
+| amount of carbon dioxide | $$[CO_{2}] (t) = \int_{0}^{t} [CO_{2}] (τ,t) d\tau = (k_{CO_{2}} * S_{CO_{2}}) (t)=\int_{0}^{t} k_{CO_{2}}\cdot e^{-k_{CO_{2}}\cdot\tau}\cdot e^{-k_{CO_{2}}\cdot (t-\tau)}d\tau$$ |
 
 ![GWP by time](https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5SQrQyMQD2-eKc7PcwHhx5X5oUdNZFJ0EyqvLrPxoWi7FaZti-XYk7bYdfDEU0y5BkVuHYjUYgi6/pubchart?oid=103035834&format=image)
 
