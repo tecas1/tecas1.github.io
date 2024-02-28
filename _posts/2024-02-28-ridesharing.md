@@ -1,6 +1,6 @@
 # Ridesharing
 
-I recently started using [https://www.poparide.com/](Poparide) both as a driver and passenger.
+I recently started using [Poparide](https://www.poparide.com/) both as a driver and passenger.
 
 So far so good! Makes a lot of sense to carpool/rideshare so long as it can be done comfortably and safely.
 
