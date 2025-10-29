@@ -4,7 +4,7 @@ Ski resorts are [making snow](https://www.theweathernetwork.com/en/news/nature/o
 
 Could we heat their chalets at the same time?
 
-You could put a snowmaker in the basement of the chalet. Water comes in, ice goes out, the extracted heat keeps the chalet warm.
+You could put a snowmaker in the basement of the chalet. Water comes in, snow goes out, the extracted heat keeps the chalet warm.
 
 These [L30](https://latitude90.ca/documentation/) units from [Latitude 90](https://latitude90.ca/) draw 67kW and create 60,000 kg of snow per day.
 
