@@ -1,6 +1,6 @@
 # Heating and making snow
 
-Ski resorts are [making snow]((https://www.theweathernetwork.com/en/news/nature/outdoors/as-ski-season-nears-a-b-c-resort-is-making-snow-in-20-degree-weather-grouse-mountain)) to extend their seasons.
+Ski resorts are [making snow](https://www.theweathernetwork.com/en/news/nature/outdoors/as-ski-season-nears-a-b-c-resort-is-making-snow-in-20-degree-weather-grouse-mountain) to extend their seasons.
 
 Could we heat their chalets at the same time?
 
